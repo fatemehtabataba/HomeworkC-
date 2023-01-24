@@ -1,0 +1,6 @@
+C:\Users\eliarayan\Desktop\saat\saat\bin\Debug\saat.exe.config
+C:\Users\eliarayan\Desktop\saat\saat\obj\Debug\saat.csprojResolveAssemblyReference.cache
+C:\Users\eliarayan\Desktop\saat\saat\bin\Debug\saat.exe
+C:\Users\eliarayan\Desktop\saat\saat\bin\Debug\saat.pdb
+C:\Users\eliarayan\Desktop\saat\saat\obj\Debug\saat.exe
+C:\Users\eliarayan\Desktop\saat\saat\obj\Debug\saat.pdb

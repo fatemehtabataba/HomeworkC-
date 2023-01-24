@@ -1,0 +1,9 @@
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\bin\Debug\zozanqe.exe.config
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\bin\Debug\zozanqe.exe
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\bin\Debug\zozanqe.pdb
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\obj\Debug\zozanqe.csprojResolveAssemblyReference.cache
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\obj\Debug\zozanqe.Form1.resources
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\obj\Debug\zozanqe.Properties.Resources.resources
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\obj\Debug\zozanqe.csproj.GenerateResource.Cache
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\obj\Debug\zozanqe.exe
+C:\Users\eliarayan\Desktop\zozanqe\zozanqe\obj\Debug\zozanqe.pdb

@@ -1,0 +1,6 @@
+C:\Users\eliarayan\Desktop\Console2\Console2\bin\Debug\Console2.exe.config
+C:\Users\eliarayan\Desktop\Console2\Console2\obj\Debug\Console2.csprojResolveAssemblyReference.cache
+C:\Users\eliarayan\Desktop\Console2\Console2\bin\Debug\Console2.exe
+C:\Users\eliarayan\Desktop\Console2\Console2\bin\Debug\Console2.pdb
+C:\Users\eliarayan\Desktop\Console2\Console2\obj\Debug\Console2.exe
+C:\Users\eliarayan\Desktop\Console2\Console2\obj\Debug\Console2.pdb

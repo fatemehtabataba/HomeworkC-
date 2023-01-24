@@ -1,0 +1,6 @@
+C:\Users\eliarayan\Desktop\zoznq1\zoznq1\bin\Debug\zoznq1.exe.config
+C:\Users\eliarayan\Desktop\zoznq1\zoznq1\obj\Debug\zoznq1.csprojResolveAssemblyReference.cache
+C:\Users\eliarayan\Desktop\zoznq1\zoznq1\bin\Debug\zoznq1.exe
+C:\Users\eliarayan\Desktop\zoznq1\zoznq1\bin\Debug\zoznq1.pdb
+C:\Users\eliarayan\Desktop\zoznq1\zoznq1\obj\Debug\zoznq1.exe
+C:\Users\eliarayan\Desktop\zoznq1\zoznq1\obj\Debug\zoznq1.pdb
